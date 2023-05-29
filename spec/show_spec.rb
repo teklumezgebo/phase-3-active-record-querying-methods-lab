@@ -1,4 +1,5 @@
 require_relative 'spec_helper'
+require './app/models/show.rb'
 
 describe Show do
   before do
